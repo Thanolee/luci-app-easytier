@@ -38,15 +38,17 @@ jobs:
           # - arm_cortex-a7
           # - arm_cortex-a7_neon-vfpv4
           # - arm_cortex-a8_vfpv3
-          # - arm_cortex-a9
+          # ASUS RT-AC88U
+          - arm_cortex-a9
           # - arm_cortex-a9_neon
           # - arm_cortex-a9_vfpv3-d16
           # - arm_fa526
           #- arm_mpcore
           # - arm_xscale
           # - mips_24kc
-          #- mips_4kec
+          # - mips_4kec
           # - mips_mips32
+          # XiaoMi Router 3G
           - mipsel_24kc
           # - mipsel_24kc_24kf
           # - mipsel_74kc
