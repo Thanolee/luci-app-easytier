@@ -57,7 +57,8 @@ jobs:
           
         sdk:
           - 24.10.4
-          - SNAPSHOT
+          # 注释snapshot版本
+          # - SNAPSHOT
 
     steps:
       - uses: actions/checkout@v5
