@@ -56,9 +56,8 @@ jobs:
           - x86_64
           
         sdk:
-          - 24.10.4
-          # 注释snapshot版本
-          # - SNAPSHOT
+          - 24.10.5
+          - SNAPSHOT
 
     steps:
       - uses: actions/checkout@v5
